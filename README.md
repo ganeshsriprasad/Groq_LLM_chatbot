@@ -4,7 +4,7 @@ A modern ChatGPT-like chatbot built with FastAPI backend and vanilla JavaScript 
 
 https://github.com/ganeshsriprasad/Groq_LLM_chatbot/blob/f48ca32147b7d29da85703cd618d255127285990/image.png
 
-![groq-llm-chatscreen]([https://github.com/AnumMujahid/netflix-clone/blob/master/n1.png](https://github.com/ganeshsriprasad/Groq_LLM_chatbot/blob/f48ca32147b7d29da85703cd618d255127285990/image.png))
+![groq-llm-chatscreen](https://github.com/ganeshsriprasad/Groq_LLM_chatbot/blob/f48ca32147b7d29da85703cd618d255127285990/image.png)
 
 ## Features
 
