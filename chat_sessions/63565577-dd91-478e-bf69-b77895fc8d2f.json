@@ -1,0 +1,17 @@
+{
+  "session_id": "63565577-dd91-478e-bf69-b77895fc8d2f",
+  "created_at": "2025-08-29T12:16:17.632281",
+  "title": "Hello",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "2025-08-29T12:16:17.635494"
+    },
+    {
+      "role": "assistant",
+      "content": "It's nice to chat with you. Is there something I can help you with or would you like to just have a conversation?",
+      "timestamp": "2025-08-29T12:16:18.751602"
+    }
+  ]
+}

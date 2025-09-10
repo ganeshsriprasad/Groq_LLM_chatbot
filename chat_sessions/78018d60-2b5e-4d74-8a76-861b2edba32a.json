@@ -1,0 +1,17 @@
+{
+  "session_id": "78018d60-2b5e-4d74-8a76-861b2edba32a",
+  "created_at": "2025-08-29T12:26:41.569470",
+  "title": "Hello write a poem",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello write a poem",
+      "timestamp": "2025-08-29T12:26:41.572846"
+    },
+    {
+      "role": "assistant",
+      "content": "In twilight's hush, where shadows play,\nThe stars come out to dance and sway,\nA midnight sky, with diamonds bright,\nA celestial show, a wondrous sight.\n\nThe world is quiet, still and deep,\nThe moon's soft light, a gentle creep,\nInto the night, with all its might,\nBringing dreams, and a peaceful sight.\n\nThe trees stand tall, with leaves so green,\nTheir branches sway, in the gentle sheen,\nOf the moon's light, that shines so bright,\nA beacon in the dark of night.\n\nIn this quiet hour, I find my peace,\nA sense of calm, that the world can't release,\nA feeling that all is right,\nA sense of wonder, at the beauty in sight.\n\nSo let the stars shine down on me,\nAnd the moon's soft light, be my destiny,\nFor in the night, I find my home,\nWhere love and peace, forever roam.",
+      "timestamp": "2025-08-29T12:26:42.691414"
+    }
+  ]
+}

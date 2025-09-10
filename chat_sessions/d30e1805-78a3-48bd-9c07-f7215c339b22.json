@@ -1,0 +1,17 @@
+{
+  "session_id": "d30e1805-78a3-48bd-9c07-f7215c339b22",
+  "created_at": "2025-09-10T19:38:29.027897",
+  "title": "Hello how u doin",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello how u doin",
+      "timestamp": "2025-09-10T19:38:29.030362"
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you're trying to start a conversation. I'm doing well, thank you for asking. I'm a large language model, so I don't have feelings or emotions like humans do, but I'm here to help and chat with you. How about you? How's your day going so far?",
+      "timestamp": "2025-09-10T19:38:30.774353"
+    }
+  ]
+}
